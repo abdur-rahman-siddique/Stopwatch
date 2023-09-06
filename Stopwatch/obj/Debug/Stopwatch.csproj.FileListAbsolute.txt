@@ -1,0 +1,11 @@
+J:\Projects\C#\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+J:\Projects\C#\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+J:\Projects\C#\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+J:\Projects\C#\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+J:\Projects\C#\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.SuggestedBindingRedirects.cache
+J:\Projects\C#\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+J:\Projects\C#\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+J:\Projects\C#\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+J:\Projects\C#\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+J:\Projects\C#\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+J:\Projects\C#\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
